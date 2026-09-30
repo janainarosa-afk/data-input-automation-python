@@ -1,0 +1,10 @@
+# Arquivos de dados locais
+*.csv
+produtos.csv
+produtos_restantes.csv
+
+# Pastas de ambiente virtual e cache do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
